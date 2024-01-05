@@ -7,7 +7,7 @@ Nama Anggota: 1.) Andika Raka Wicaksono
               5.)
 
 Job Desc:
-Andika Raka Wicaksono :
+1. Andika Raka Wicaksono (CP 085713484220) :
 - Membuat XML Login
 - Membuat Form Login
 - Membantu pembuatan konsep aplikasi

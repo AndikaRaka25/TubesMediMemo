@@ -11,3 +11,7 @@ Job Desc:
 - Membuat XML Login
 - Membuat Form Login
 - Membantu pembuatan konsep aplikasi
+
+2. Azmi Ridho Rinanta
+- Membuat fitur notification
+- Membuat navbar

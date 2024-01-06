@@ -2,7 +2,7 @@ Nama Aplikasi: MediMemo
 Nama Kelompok: Jangan Lupa Sholat
 Nama Anggota: 1.) Andika Raka Wicaksono
               2.) Azmi Ridho Rinanta
-              3.)
+              3.) Mahendi Putri Dinanti
               4.)
               5.)
 
@@ -15,3 +15,7 @@ Job Desc:
 2. Azmi Ridho Rinanta
 - Membuat fitur notification
 - Membuat navbar
+
+3. Mahendi Putri Dinanti
+- Membuat design ui/ux
+- Membuat fitur home

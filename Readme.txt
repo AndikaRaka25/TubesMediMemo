@@ -4,7 +4,7 @@ Nama Anggota: 1.) Andika Raka Wicaksono
               2.) Azmi Ridho Rinanta
               3.) Mahendi Putri Dinanti
               4.) Syaharul Hafidz
-              5.)
+              5.) Fadhlan Putera Sopian
 
 Job Desc:
 1. Andika Raka Wicaksono (CP 085713484220) :
@@ -24,3 +24,7 @@ Job Desc:
 - Mendesign UI
 - Membantu Pembuatan Konsep Aplikasi
 - Membuat tampilan di android studio
+
+5. Fadhlan Putera Sopian
+- Membuat seluruh UI aplikasi
+- Menemukan konsep awal hingga akhir aplikasi

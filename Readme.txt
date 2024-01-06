@@ -3,7 +3,7 @@ Nama Kelompok: Jangan Lupa Sholat
 Nama Anggota: 1.) Andika Raka Wicaksono
               2.) Azmi Ridho Rinanta
               3.) Mahendi Putri Dinanti
-              4.)
+              4.) Syaharul Hafidz
               5.)
 
 Job Desc:
@@ -19,3 +19,8 @@ Job Desc:
 3. Mahendi Putri Dinanti
 - Membuat design ui/ux
 - Membuat fitur home
+
+4. Syaharul Hafidz
+- Mendesign UI
+- Membantu Pembuatan Konsep Aplikasi
+- Membuat tampilan di android studio

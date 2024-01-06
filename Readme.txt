@@ -26,5 +26,5 @@ Job Desc:
 - Membuat tampilan di android studio
 
 5. Fadhlan Putera Sopian
-- Membuat seluruh UI aplikasi
+- Membuat seluruh UI aplikasi di Android Studio
 - Menemukan konsep awal hingga akhir aplikasi
